@@ -101,7 +101,14 @@ Done
 > > - press Auto ID document
 Save
 
+- link the database from firebase to sidebar.js and show the rooms on app
+- program to add new chat room
 
+16. Create router for each rooms:
+- install:
+```sh
+npm install react-router-dom
+```
 
 
 ## :sagittarius: Author

@@ -17,4 +17,9 @@
 
 .sidebarChat_info {
     margin-left: 15px;
+    
+}
+.sidebarChat_info > a {
+    text-decoration: none;
+    
 }
