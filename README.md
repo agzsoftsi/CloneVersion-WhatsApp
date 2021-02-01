@@ -88,6 +88,21 @@ export { auth, provider }
 export default db;
 ```
 
+- Create database on https://console.firebase.google.com/
+> - Select option: Cloud firestore -> create database
+> - Select Location: nam5(us-central)
+> - select in security: test mode
+Done
+
+- Cloud Firestore config:
+> - start collenction:
+> > - Collection ID: rooms --> next
+> > - field: name, type: string, value: Welcome Room
+> > - press Auto ID document
+Save
+
+
+
 
 ## :sagittarius: Author
 
