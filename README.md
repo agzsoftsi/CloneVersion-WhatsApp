@@ -67,6 +67,8 @@ npm install @material-ui/icons
 
 14. create chat panel sections
 
+15. config send and receive message
+
 
 ## :sagittarius: Author
 
