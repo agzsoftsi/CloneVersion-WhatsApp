@@ -55,6 +55,8 @@ npm install @material-ui/core
 
 11. install Icons: https://material-ui.com/components/icons/#icons
 
+https://material-ui.com/components/material-icons/
+
 ```sh
 npm install @material-ui/icons
 ```
