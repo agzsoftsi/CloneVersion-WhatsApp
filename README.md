@@ -65,6 +65,7 @@ npm install @material-ui/icons
 
 13. config avatars from : https://avatars.dicebear.com/docs/http-api
 
+14. create chat panel sections
 
 
 ## :sagittarius: Author
