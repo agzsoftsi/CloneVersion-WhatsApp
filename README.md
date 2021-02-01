@@ -63,7 +63,7 @@ npm install @material-ui/icons
 
 12. put icons and stylized the sidebar top and search bar
 
-
+13. config avatars from : https://avatars.dicebear.com/docs/http-api
 
 
 
