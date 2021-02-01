@@ -37,7 +37,7 @@ cd karlsapp
 npm start
 ```
 
-6. Optional (Delete App.test.js)
+6. Optional (Delete App.test.js - Delete log.svg)
 
 
 
