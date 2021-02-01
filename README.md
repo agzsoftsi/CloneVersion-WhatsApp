@@ -36,8 +36,15 @@ wait to process is completed
 cd karlsapp
 npm start
 ```
-
 6. Optional (Delete App.test.js - Delete log.svg)
+7. Clean file app.css
+8. put in first on file index.css
+```sh
+* {
+  margin: 0;
+}
+```
+9. Create components and Styles 
 
 
 
