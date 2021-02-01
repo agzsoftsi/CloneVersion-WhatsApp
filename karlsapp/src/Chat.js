@@ -37,7 +37,7 @@ function Chat() {
     return (
         <div className="chat">
              <div className="chat_header">
-            <Avatar src={`https://avatars.dicebear.com/api/bottts/${seed}.svg`}/>
+            <Avatar src={`https://avatars.dicebear.com/api/bottts/${Math.floor(Math.random()*5000)}.svg`}/>
                 <div className="chat_headerInfo">
                     <h3>{roomName}</h3>
                     <p>Lasst seen At ...</p>

@@ -110,6 +110,9 @@ Save
 npm install react-router-dom
 ```
 
+17. Add Google Authentication
+> - remenber enable the authentication method from console.firebase
+
 
 ## :sagittarius: Author
 
