@@ -61,6 +61,8 @@ https://material-ui.com/components/material-icons/
 npm install @material-ui/icons
 ```
 
+12. put icons and stylized the sidebar top and search bar
+
 
 
 
