@@ -69,6 +69,25 @@ npm install @material-ui/icons
 
 15. config send and receive message
 
+15. config firebase access:
+- install firebase:
+```sh
+npm install firebase
+```
+- initialize firebase inse firebase.js: copy and paste
+
+```sh
+import firebase from 'firebase';
+
+
+const firebaseApp = firebase.initializeApp(firebaseConfig);
+const db = firebaseApp.firestore();
+const auth = firebase.auth();
+const provider = new firebase.auth.GoogleAuthProvider();
+export { auth, provider }
+export default db;
+```
+
 
 ## :sagittarius: Author
 
