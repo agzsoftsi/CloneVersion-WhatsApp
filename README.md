@@ -48,6 +48,18 @@ npm start
 - create styles base for app.js in app.css
 - create component Sidebar.js and Sidebar.css
 
+10. install Material UI : https://material-ui.com/
+```sh
+npm install @material-ui/core
+```
+
+11. install Icons: https://material-ui.com/components/icons/#icons
+
+```sh
+npm install @material-ui/icons
+```
+
+
 
 
 
