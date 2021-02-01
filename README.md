@@ -44,7 +44,9 @@ npm start
   margin: 0;
 }
 ```
-9. Create components and Styles 
+9. Create components and Styles:
+- create styles base for app.js in app.css
+- create component Sidebar.js and Sidebar.css
 
 
 
