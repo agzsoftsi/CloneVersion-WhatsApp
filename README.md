@@ -115,6 +115,24 @@ npm install react-router-dom
 
 18. Manipulate data from Google user API to the App
 
+19. Create on firebase, the message colection for each room
+> - go to start a Collection on right side of rooms and:
+> > - Collection ID: messages
+> > > - Document ID: automatic
+> > > - field: message
+> > > - type: string
+> > > - value: Welcome Guys
+
+> > > - field:name
+> > > - type: string
+> > > - value: karlgarmor
+
+
+> > > - field:timestamp
+> > > - type: timestamp
+
+Done
+
 
 ## :sagittarius: Author
 
