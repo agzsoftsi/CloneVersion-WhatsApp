@@ -135,6 +135,8 @@ Done
 
 20. programas send message 
 
+21. Deploy on firebase
+
 
 ## :sagittarius: Author
 
