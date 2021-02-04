@@ -1,4 +1,4 @@
-# KarlsApp
+![](top.png)
 Karl'sApp is a Simple WhatsApp Clone using HTML, CSS, ReactJS, Redux, Node, Firebase, Google Authentication.
 
 # Steps to Create the App:
