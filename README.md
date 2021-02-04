@@ -135,7 +135,19 @@ Done
 
 20. programas send message 
 
-21. Deploy on firebase
+21. Deploy on heroku:
+```sh
+npm install -g create-react-app
+create-react-app my-app
+cd my-app
+git init
+heroku create -b https://github.com/mars/create-react-app-buildpack.git
+git add .
+git commit -m "react-create-app on Heroku"
+git push heroku master
+heroku open
+```
+
 
 
 ## :sagittarius: Author
