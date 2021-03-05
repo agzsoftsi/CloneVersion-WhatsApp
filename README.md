@@ -1,5 +1,34 @@
 ![](Top.fw.png)
-Karl'sApp is a Simple WhatsApp Clone using HTML, CSS, ReactJS, Redux, Node, Firebase, Google Authentication.
+# Description
+It's a Simple WhatsApp Clone using HTML, CSS, ReactJS, Redux, Node, Firebase, Google Authentication.
+WhatsApp Messenger is an instant messaging application for smartphones and browsers, in which messages are sent and received through the Internet, this version has authentication implemented thanks to Firebase Authentication, which works by logging in with Gmail accounts. Among its functions are to create groups or chat rooms and to review the messages that have been sent.
+
+This version is still very basic, so many of the functionalities are not implemented and are only aesthetic.
+
+# Use
+
+### !!!Note: NODEJS should be Installed, if not, download and install it [https://nodejs.org/en/](https://nodejs.org/en/)!!!
+
+1. Clone the respository
+```sh
+git clone https://github.com/agzsoftsi/CloneVersion-WhatsApp.git
+```
+
+2. Enter to the code Directory
+```sh
+cd karlsapp
+```
+
+3. Install Dependencies
+```sh
+npm install
+```
+
+4. Run App
+```sh
+npm start
+```
+
 
 # Steps to Create the App:
 
