@@ -5,6 +5,15 @@ WhatsApp Messenger is an instant messaging application for smartphones and brows
 
 This version is still very basic, so many of the functionalities are not implemented and are only aesthetic.
 
+# Main Features
+
+- Send and receive messages
+- Mesage storage in Firebase Cloud Firestore
+- Authenticate with Firebase
+- Dynamic avatar for each Group
+- Aesthetic similar to WhatsApp
+- Supported in Google Chrome, Firefox, Microsoft Edge browsers
+
 # Use
 
 ### !!!Note: NODEJS should be Installed, if not, download and install it [https://nodejs.org/en/](https://nodejs.org/en/)!!!
